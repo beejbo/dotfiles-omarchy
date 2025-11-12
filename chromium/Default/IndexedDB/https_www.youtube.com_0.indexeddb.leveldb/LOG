@@ -1,4 +1,3 @@
-2025/11/12-15:18:46.061 8b45 Reusing MANIFEST /home/adrian/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/11/12-15:18:46.061 8b45 Recovering log #18
-2025/11/12-15:18:46.062 8b45 Reusing old log /home/adrian/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000018.log 
-2025/11/12-15:18:46.062 8b45 Delete type=2 #17
+2025/11/12-15:31:58.608 95a8 Reusing MANIFEST /home/adrian/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/12-15:31:58.608 95a8 Recovering log #18
+2025/11/12-15:31:58.609 95a8 Reusing old log /home/adrian/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000018.log 
