@@ -1,0 +1,46 @@
+# Archivos sensibles que NO debes subir
+*[Pp]assword*
+*[Ss]ecret*
+*[Tt]oken*
+*[Kk]ey*
+*[Cc]redential*
+*.priv
+*.key
+*.pem
+
+# Aplicaciones específicas con datos sensibles
+discord/
+Element/
+Signal/
+spotify/
+telegram/
+whatsapp/
+
+# Cachés y archivos temporales
+*cache*
+*Cache*
+*.log
+*.tmp
+*.swp
+*~
+\#*#
+.*.sw?
+
+# Historiales y datos de aplicaciones
+fish/fish_history
+zsh/history
+bash/history
+mc/history
+nvim/shada
+
+# Bases de datos locales
+*.db
+*.sqlite
+*.sqlite3
+
+# Backups automáticos
+*backup*
+*.bak
+
+# Lock files
+*.lock
