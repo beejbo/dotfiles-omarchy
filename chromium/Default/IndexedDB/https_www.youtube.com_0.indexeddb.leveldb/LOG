@@ -1,2 +1,4 @@
-2025/11/11-20:02:51.952 75c Creating DB /home/adrian/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb since it was missing.
-2025/11/11-20:02:51.956 75c Reusing MANIFEST /home/adrian/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/12-15:18:46.061 8b45 Reusing MANIFEST /home/adrian/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/12-15:18:46.061 8b45 Recovering log #18
+2025/11/12-15:18:46.062 8b45 Reusing old log /home/adrian/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000018.log 
+2025/11/12-15:18:46.062 8b45 Delete type=2 #17
