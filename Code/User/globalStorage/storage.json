@@ -1,0 +1,65 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "9cb286ce83acbd4c5f99dd4029a173d7390deabcbd8f0fedd1cc4d49692fc39d",
+    "telemetry.devDeviceId": "10759452-0f1c-499d-8bf0-3bde444befec",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [],
+        "emptyWindows": [
+            {
+                "backupFolder": "1769091489643"
+            }
+        ]
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {},
+        "emptyWindows": {
+            "1769091489643": "__default__profile__"
+        }
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1a1b26",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#787c99",
+            "background": "#1a1b26",
+            "editorBackground": "#1a1b26",
+            "titleBarBackground": "#16161e",
+            "titleBarBorder": "#101014",
+            "activityBarBackground": "#16161e",
+            "activityBarBorder": "#16161e",
+            "sideBarBackground": "#16161e",
+            "sideBarBorder": "#101014",
+            "statusBarBackground": "#16161e",
+            "statusBarBorder": "#101014",
+            "statusBarNoFolderBackground": "#16161e",
+            "windowBorder": "#0d0f17"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 300,
+            "auxiliaryBarWidth": 300,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "backupPath": "/home/adrian/.config/Code/Backups/1769091489643",
+            "uiState": {
+                "mode": 0,
+                "x": 0,
+                "y": 0,
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "openedWindows": []
+    }
+}

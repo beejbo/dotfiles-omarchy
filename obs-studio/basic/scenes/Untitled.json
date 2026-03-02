@@ -1,6 +1,6 @@
 {
     "DesktopAudioDevice1": {
-        "prev_ver": 536870913,
+        "prev_ver": 536870914,
         "name": "Desktop Audio",
         "uuid": "3b984e8f-cf06-4726-8f75-2c0834d2ff5f",
         "id": "pulse_output_capture",
@@ -31,7 +31,7 @@
         "private_settings": {}
     },
     "AuxAudioDevice1": {
-        "prev_ver": 536870913,
+        "prev_ver": 536870914,
         "name": "Mic/Aux",
         "uuid": "75be0ddb-c623-4b4c-8ba7-1ba1d7dbc36e",
         "id": "pulse_input_capture",
@@ -71,7 +71,7 @@
     "name": "Untitled",
     "sources": [
         {
-            "prev_ver": 536870913,
+            "prev_ver": 536870914,
             "name": "Scene",
             "uuid": "82bee890-1ee8-443a-954f-1c216d072272",
             "id": "scene",
@@ -205,10 +205,10 @@
             "push-to-talk-delay": 0,
             "hotkeys": {
                 "OBSBasic.SelectScene": [],
-                "libobs.show_scene_item.2": [],
-                "libobs.hide_scene_item.2": [],
                 "libobs.show_scene_item.3": [],
-                "libobs.hide_scene_item.3": []
+                "libobs.hide_scene_item.3": [],
+                "libobs.show_scene_item.2": [],
+                "libobs.hide_scene_item.2": []
             },
             "deinterlace_mode": 0,
             "deinterlace_field_order": 0,
@@ -217,19 +217,19 @@
             "private_settings": {}
         },
         {
-            "prev_ver": 536870913,
+            "prev_ver": 536870914,
             "name": "Video Capture Device (PipeWire) (BETA)",
             "uuid": "32282bc9-9c6b-418a-8ddd-a6dbd31e8d77",
             "id": "pipewire-camera-source",
             "versioned_id": "pipewire-camera-source",
             "settings": {
-                "device_id": "v4l2_input.pci-0000_00_14.0-usb-0_7_1.0",
                 "format": "{\"encoded\":false,\"video_format\":4,\"width\":1280,\"height\":720}",
                 "framerate": "{\"framerate\":{\"numerator\":10.0,\"denominator\":1.0}}",
                 "Contrast": 34,
                 "Saturation": 65,
                 "Brightness": 129,
-                "White Balance Temperature": 4010
+                "White Balance Temperature": 4010,
+                "device_id": "v4l2_input.pci-0000_00_14.0-usb-0_7_1.0"
             },
             "mixers": 0,
             "sync": 0,
@@ -249,13 +249,13 @@
             "private_settings": {}
         },
         {
-            "prev_ver": 536870913,
+            "prev_ver": 536870914,
             "name": "Screen Capture (PipeWire)",
             "uuid": "697642b0-d3ec-4f19-b478-a8d7740f97f8",
             "id": "pipewire-screen-capture-source",
             "versioned_id": "pipewire-screen-capture-source",
             "settings": {
-                "RestoreToken": ""
+                "RestoreToken": "79c37cd5-4f9e-420c-88fc-fbab98bfe759"
             },
             "mixers": 0,
             "sync": 0,

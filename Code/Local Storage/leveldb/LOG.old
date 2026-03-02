@@ -1,0 +1,3 @@
+2026/01/28-10:59:41.826 dbd Reusing MANIFEST /home/adrian/.config/Code/Local Storage/leveldb/MANIFEST-000001
+2026/01/28-10:59:41.829 dbd Recovering log #3
+2026/01/28-10:59:41.830 dbd Reusing old log /home/adrian/.config/Code/Local Storage/leveldb/000003.log 

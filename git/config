@@ -27,7 +27,5 @@
 	enabled = true           # Record and reuse conflict resolutions
 	autoupdate = true        # Apply stored conflict resolutions automatically
 [user]
-	email = adriangrod05@gmail.com
 	name = beejbo
-[credential]
-	helper = store
+	email = adriangrod05@gmail.com
