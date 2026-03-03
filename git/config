@@ -29,3 +29,5 @@
 [user]
 	name = beejbo
 	email = adriangrod05@gmail.com
+[credential]
+	helper = store
